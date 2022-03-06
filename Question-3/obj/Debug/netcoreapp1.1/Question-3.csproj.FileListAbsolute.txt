@@ -1,0 +1,9 @@
+C:\Users\TOSHIBA\Desktop\.NetTrainings\AlgorithmQuestionsAboutCollections\Question-3\bin\Debug\netcoreapp1.1\Question-3.deps.json
+C:\Users\TOSHIBA\Desktop\.NetTrainings\AlgorithmQuestionsAboutCollections\Question-3\bin\Debug\netcoreapp1.1\Question-3.runtimeconfig.json
+C:\Users\TOSHIBA\Desktop\.NetTrainings\AlgorithmQuestionsAboutCollections\Question-3\bin\Debug\netcoreapp1.1\Question-3.runtimeconfig.dev.json
+C:\Users\TOSHIBA\Desktop\.NetTrainings\AlgorithmQuestionsAboutCollections\Question-3\bin\Debug\netcoreapp1.1\Question-3.dll
+C:\Users\TOSHIBA\Desktop\.NetTrainings\AlgorithmQuestionsAboutCollections\Question-3\bin\Debug\netcoreapp1.1\Question-3.pdb
+C:\Users\TOSHIBA\Desktop\.NetTrainings\AlgorithmQuestionsAboutCollections\Question-3\obj\Debug\netcoreapp1.1\Question-3.csproj.CoreCompileInputs.cache
+C:\Users\TOSHIBA\Desktop\.NetTrainings\AlgorithmQuestionsAboutCollections\Question-3\obj\Debug\netcoreapp1.1\Question-3.AssemblyInfo.cs
+C:\Users\TOSHIBA\Desktop\.NetTrainings\AlgorithmQuestionsAboutCollections\Question-3\obj\Debug\netcoreapp1.1\Question-3.dll
+C:\Users\TOSHIBA\Desktop\.NetTrainings\AlgorithmQuestionsAboutCollections\Question-3\obj\Debug\netcoreapp1.1\Question-3.pdb
